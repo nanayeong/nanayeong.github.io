@@ -21,10 +21,10 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MyName."
 description              : "MyDescription"
-feature
+feature:
 url                      : "https://nanayeong.github.io"
 url                      : "https://nanayeong.com"
-master
+master:
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nanayeong/nanayeong.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
